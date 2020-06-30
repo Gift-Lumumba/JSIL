@@ -34,6 +34,8 @@ INSTALLED_APPS = [
     'space.apps.SpaceConfig',
     'bootstrap3',
     'bootstrap4',
+
+    
 ]
 
 MIDDLEWARE = [
