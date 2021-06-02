@@ -23,6 +23,6 @@ six==1.11.0
 typed-ast==1.1.0
 unicodecsv==0.14.1
 Unipath==1.1
-urllib3==1.25.9
+urllib3==1.26.5
 whitenoise==3.3.1
 wrapt==1.10.11
